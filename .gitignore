@@ -1,0 +1,6 @@
+# type the names of the files you dont want to commit
+.vscode
+commit.bat
+update.bat
+asd.lua
+dev
