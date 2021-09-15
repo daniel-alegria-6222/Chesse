@@ -75,7 +75,7 @@ function love.draw()
    --- DEBUGGING
    love.graphics.setFont(mainFont)
    love.graphics.setColor(1,1,1)
-   love.graphics.print("Nunca te olvidare Jhaidi",15, 100)
+   love.graphics.print("A Giampaul le gusta Jhaidi UwU",15, 100)
    love.graphics.print(
       string.format(
          "Movimiento: %s / %s",
