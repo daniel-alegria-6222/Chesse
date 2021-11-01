@@ -1,5 +1,5 @@
 -- FPS Optimizations
-local min_dt = 1/24
+local min_dt = 1/1
 local next_time = love.timer.getTime()
 
 -- CONSTANS
